@@ -68,5 +68,5 @@ module.export = {
   Mission1,
   Mission2,
   Mission3,
-  Mission4,
+  Mission4
 };
